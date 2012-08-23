@@ -1,0 +1,5 @@
+python-django-tastypie (1.0.0beta-0) testing; urgency=low
+
+  * Initial Debian package
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Tue,  6 Dec 2011 16:28:00 -0400

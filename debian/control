@@ -1,0 +1,12 @@
+Source: python-django-tastypie
+Section: python
+Priority: optional
+Maintainer: Daniel Lindsley <daniel@toastdriven.com>
+Homepage: http://github.com/toastdriven/django-tastypie/
+Build-Depends: debhelper, python-support
+
+Package: python-django-tastypie
+Architecture: all
+Depends: ${python:Depends}, python-support, python-dateutil, python-mimeparse
+Provides: ${python:Provides}
+Description: A flexible & capable API layer for Django.
