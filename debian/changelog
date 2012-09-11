@@ -1,3 +1,9 @@
+python-django-tastypie (1.0.0beta-20120911) testing; urgency=low
+
+  * update to master
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Tue, 11 Sep 2012 15:48:00 +0200
+
 python-django-tastypie (1.0.0beta-0) testing; urgency=low
 
   * Initial Debian package
